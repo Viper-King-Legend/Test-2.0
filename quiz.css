@@ -17,11 +17,11 @@ body
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+#number
 {
 	width: 60%;
 }
-#word_display
+#number_display
 {
 	letter-spacing: 5px;
 }
